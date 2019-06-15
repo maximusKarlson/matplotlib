@@ -6,4 +6,4 @@ This document has the target to show all the different and very powerful feature
 pip install matplotlib
 ```
 
-After that you are ready to go.
+After that you are ready to go. To start the Notebook with alle the deatailed information just click [here](https://github.com/maximusKarlson/matplotlib/blob/master/Matplotlib.ipynb)
